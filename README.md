@@ -1,1 +1,1 @@
-## Core Bit Manipulation Concepts..
+## Core Bit Manipulation Concepts.
