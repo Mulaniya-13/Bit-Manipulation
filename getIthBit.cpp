@@ -11,6 +11,6 @@ int getIthBit(int num,int i){
 }
 
 int main(){
-    cout<<getIthBit(6,2)<<endl;
+    cout<<getIthBit(6,0)<<endl;
     return 0;
 }
